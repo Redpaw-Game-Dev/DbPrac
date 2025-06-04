@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaium\\Desktop\\DB prac\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{379C6696-52EE-453F-8D36-C1E3B09033FA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kaium\\desktop\\db prac\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379C6696-52EE-453F-8D36-C1E3B09033FA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379C6696-52EE-453F-8D36-C1E3B09033FA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kaium\\desktop\\db prac\\consoleapp1\\consoleapp1\\ticket.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{379C6696-52EE-453F-8D36-C1E3B09033FA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\ticket.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379C6696-52EE-453F-8D36-C1E3B09033FA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kaium\\desktop\\db prac\\consoleapp1\\consoleapp1\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379C6696-52EE-453F-8D36-C1E3B09033FA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379C6696-52EE-453F-8D36-C1E3B09033FA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kaium\\desktop\\db prac\\consoleapp1\\consoleapp1\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379C6696-52EE-453F-8D36-C1E3B09033FA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379C6696-52EE-453F-8D36-C1E3B09033FA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kaium\\desktop\\db prac\\consoleapp1\\consoleapp1\\flight.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{379C6696-52EE-453F-8D36-C1E3B09033FA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\flight.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ticket.hbm.xml",
+              "DocumentMoniker": "C:\\Users\\kaium\\Desktop\\DB prac\\ConsoleApp1\\ConsoleApp1\\Ticket.hbm.xml",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Ticket.hbm.xml",
+              "ToolTip": "C:\\Users\\kaium\\Desktop\\DB prac\\ConsoleApp1\\ConsoleApp1\\Ticket.hbm.xml",
+              "RelativeToolTip": "ConsoleApp1\\Ticket.hbm.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-04T16:52:46.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\kaium\\Desktop\\DB prac\\ConsoleApp1\\ConsoleApp1\\Ticket.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Ticket.cs",
+              "ToolTip": "C:\\Users\\kaium\\Desktop\\DB prac\\ConsoleApp1\\ConsoleApp1\\Ticket.cs",
+              "RelativeToolTip": "ConsoleApp1\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:43:58.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flight.hbm.xml",
+              "DocumentMoniker": "C:\\Users\\kaium\\Desktop\\DB prac\\ConsoleApp1\\ConsoleApp1\\Flight.hbm.xml",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Flight.hbm.xml",
+              "ToolTip": "C:\\Users\\kaium\\Desktop\\DB prac\\ConsoleApp1\\ConsoleApp1\\Flight.hbm.xml",
+              "RelativeToolTip": "ConsoleApp1\\Flight.hbm.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-04T16:14:37.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\kaium\\Desktop\\DB prac\\ConsoleApp1\\ConsoleApp1\\Flight.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Flight.cs",
+              "ToolTip": "C:\\Users\\kaium\\Desktop\\DB prac\\ConsoleApp1\\ConsoleApp1\\Flight.cs",
+              "RelativeToolTip": "ConsoleApp1\\Flight.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA7wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:15:44.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaium\\Desktop\\DB prac\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\kaium\\Desktop\\DB prac\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwLUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:58:46.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

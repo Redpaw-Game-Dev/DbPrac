@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="ConsoleApp1" namespace="ConsoleApp1">
+	<class name="Flight" table="flight">
+		<id name="ID">
+			<generator class="identity"/>
+		</id>
+		<property name="DeparturePointID" column="departure_point_id"/>
+		<property name="DepartureDateTime" column="departure_datetime"/>
+		<property name="DestinationPointID" column="destination_point_id"/>
+		<property name="ArrivalDateTime" column="destination_datetime"/>
+		<property name="SoldTicketsCount" column="sold_tickets_count"/>
+		<property name="PlaneID" column="plane_id"/>
+	</class>
+</hibernate-mapping>

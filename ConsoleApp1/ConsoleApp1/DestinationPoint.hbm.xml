@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="ConsoleApp1" namespace="ConsoleApp1">
+	<class name="DestinationPoint" table="destination_point">
+		<id name="ID">
+			<generator class="identity"/>
+		</id>
+		<property name="Name" column="Name"/>
+	</class>
+</hibernate-mapping>
